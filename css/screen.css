@@ -20,11 +20,11 @@ html, body {
 
 #content {
 	margin: 20% auto;
-	width: 660px;
+	width: 700px;
 }
 
 .avatar{
-  margin-top: 3px;
+  margin-top: -20px;
 }
 
 div.brace {
