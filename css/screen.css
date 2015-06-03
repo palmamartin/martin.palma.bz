@@ -13,35 +13,17 @@
 html, body {
   height: 100%;
   font-family: 'silkscreennormal';
+  /*font-family: Helvetica, Arial;*/
   font-size: 12px;
   background: #fff;
   line-height: 1.5em;
 }
 
 #content {
-	margin: 20% auto;
-	width: 700px;
-}
-
-.avatar{
-  margin-top: -20px;
-}
-
-div.brace {
-  margin-top: 50px;
-  float: right;
-  width: 80px;
-  font-size: 120px;
-  font-weight: normal;
-  color: #dc322f;
-}
-
-div.text-box {
-  margin-top: 25px;
-  float: right;
-  width: 500px;
+	margin: 50px 0 0 50px;
+	width: 300px;
 }
 
 h2 {
-  display: inline;
+    display: inline;
 }
