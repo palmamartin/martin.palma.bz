@@ -1,0 +1,50 @@
+body {
+    text-align: left;
+    background: #f0f0f0;
+    color: #A2A2A2;
+    margin: 50px 0 0 50px;
+    line-height: 1.5em;
+    font-size: 14px;
+    font-family: 'Fira Mono', monospace;
+}
+
+a { 
+    color: #19D397;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover { color: #55AEBA;}
+
+#sidebar {
+    padding-left: 20px;
+}
+
+h1 { 
+    font-weight: normal;
+    margin-top:0;
+    font-size: 20px; 
+    color: #000;
+}
+
+h2, h3 { 
+    font-weight: normal;
+}
+
+h2 { 
+    margin-bottom: 0;
+    font-size: 18px; 
+    line-height: 1.5em; 
+}
+h3 { font-size: 16px; color: #333; }
+
+hr {
+    margin: 20px 0 20px 0;
+    width: 380px;
+	height: 6px;
+	background: url(../static/hr.png) repeat-x 0 0;
+    border: 0;
+}
+
+
+ul { color: #000; }
