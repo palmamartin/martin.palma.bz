@@ -9,12 +9,12 @@ body {
 }
 
 a { 
-    color: #19D397;
+    color: blue;
     font-weight: bold;
     text-decoration: none;
 }
 
-a:hover { color: #55AEBA;}
+a:hover { color: darkblue;}
 
 #sidebar {
     padding-left: 20px;
