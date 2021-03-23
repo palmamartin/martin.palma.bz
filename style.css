@@ -1,0 +1,39 @@
+body {
+	text-align: left;
+	background: #f0f0f0;
+	color: #555;
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+
+main {
+	padding: 2em 2em 5em 2em;
+	max-width: 55em !important;
+}
+
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+a:hover { color: darkblue;}
+
+h1 { 
+	margin:0 0 5px 0;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #000;	
+}
+
+h2 { 
+	font-weight: normal;
+	font-size: 16px; 
+	color: #333;
+}
+
+.inline {
+	display: inline;
+}
